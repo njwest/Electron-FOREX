@@ -1,6 +1,6 @@
 # Electron-FOREX
 
-An Electron app with React, NATS, real-time charting, and NATS FOREX data.
+An Electron app with React, real-time charting, and a NATS FOREX data stream.
 
 ### Installation
 
@@ -8,7 +8,7 @@ An Electron app with React, NATS, real-time charting, and NATS FOREX data.
 2. Add your own Polygon.io NATS API token to `/app/components/Home.js`
 3. Run `npm run dev` to run a development build.
 4. Run `npm run package` to package this app for your current platform.
-5. Run `npm run package-all` to package this app for all platforms (after consulting the [multi-platform build docs](https://www.electron.build/multi-platform-build))
+5. Run `npm run package-all` to package this app for all platforms (after consulting the [Electron multi-platform build docs](https://www.electron.build/multi-platform-build))
 
 ### About
 
